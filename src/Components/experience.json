@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "rightLeft": 1,
+        "companyName":"HTMLTEK",
+        "workTime":"(2022)",
+        "details": "My first internship was in HTMLTEK company. I worked as an intern for 2 months; July, 2022 to September, 2022. My stacks were java spring and vanillia js (HTML, CSS, Javascript) at company. So I was Junior Full Stack developer. I developed a simple web application with my group. Firstly I start to learn HTML, CSS then created simple UI examples. Later on, use them with java."
+    },
+    {
+        "id": 2,
+        "rightLeft": 0,
+        "companyName":"Vaga",
+        "workTime":"(2023)",
+        "details": "Vaga is my first professional work experience. After my internship I learnt React JS and developed my Javascript skills. Then I started as a Junior React JS Front End developer at Vaga Company in Gebze Bilisim Vadisi for 4 months here; March 2022 to June 2022. Vaga was a start up and we had a small Front End team. Yawa-WL, the project we developed was based on e-commerce. It was a web and mobile application. Mostly I was on React JS/ Web side but I looked at React Native/Mobile side too. I learnt working with a team and built applications using Jira and Bitbucket control. My stacks were React JS, Javascript, MDBootstrap, Jira and React Native. "
+    },
+    {
+        "id": 3,
+        "rightLeft": 1,
+        "companyName":"Argenova",
+        "workTime":"(2023)",
+        "details": "My second school internship was in Argenova company. I worked as an intern for 1 months; June, 2022 to July, 2022. Argenova organize summer internship program every summer. They divide students by group and want that developing something with high vision. Our project name is DayOver. The concept was healty life and dietic. A mobile app, built with Flutter and Firebase. I was leader of the team and the idea was mine. Shortly, DayOver is giving a market approach to lose weight. If you did any type of exercise and you have credit you can buy what you want to eat or sticker. For example if you walk for an hour and lose 100x cal then you earn 100 credit and you can buy something 40 cal from the market or sticker.  "
+    }
+]
