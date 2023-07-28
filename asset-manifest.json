@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1a62904e.css",
+    "main.js": "/portfolio/static/js/main.818c628d.js",
+    "static/media/birkan (1).jpeg": "/portfolio/static/media/birkan (1).5476f62eb38d18e14639.jpeg",
+    "static/media/portfolio-birkan-img.png": "/portfolio/static/media/portfolio-birkan-img.f385ba90bcbdfa07fb0e.png",
+    "static/media/react.png": "/portfolio/static/media/react.6bcffb56bd0efaa47767.png",
+    "static/media/react-native.webp": "/portfolio/static/media/react-native.0d98d8a64511a934c652.webp",
+    "static/media/javascrit.png": "/portfolio/static/media/javascrit.81ebc9587f5d628a50b4.png",
+    "static/media/next.webp": "/portfolio/static/media/next.864ec59e9c450019ca8a.webp",
+    "static/media/jira.webp": "/portfolio/static/media/jira.eeaa6fe646302264574e.webp",
+    "index.html": "/portfolio/index.html",
+    "main.1a62904e.css.map": "/portfolio/static/css/main.1a62904e.css.map",
+    "main.818c628d.js.map": "/portfolio/static/js/main.818c628d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a62904e.css",
+    "static/js/main.818c628d.js"
+  ]
+}
