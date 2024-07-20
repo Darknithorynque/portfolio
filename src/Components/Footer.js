@@ -10,14 +10,14 @@ function Footer(props) {
       <MDBRow className="footer-row">
         <MDBCol className="footer-hire-section">
           <div className="footer-hire-box">
-            <a href="mailto:birkanmalkoc0@gmail.com?subject=We%20Want%20To%20Hire%20You&body=Hi%2C%20Birkan">
-              Hire Me
+            <a href="mailto:birkanmalkoc0@gmail.com?subject=We%20Want%20To%20Contact%20You&body=Hi%2C%20Birkan">
+              Contact
             </a>
           </div>
         </MDBCol>
         <MDBCol className="footer-cv-section">
           <div className="footer-cv-box">
-            <a href="https://aquamarine-kathye-92.tiiny.site/" download>
+            <a href="https://emerald-callie-80.tiiny.site" download>
               Download CV
             </a>
           </div>

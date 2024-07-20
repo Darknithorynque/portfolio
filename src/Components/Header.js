@@ -11,8 +11,9 @@ export default function Header() {
         <h3>PORTFOLIO</h3>
         <MDBTypography>
           Hi guys, Welcome to my portfolio. I am B on the other hand Birkan Arda
-          Malkoc. I am 21 years old Jr. Frontend Developer. Currently my
-          location is in Kocaeli. Let's take a moment to explore my portfolio.
+          Malkoc. I am 23 years old Jr. Software Engineer focused on Backend
+          Development. Currently my location is in Kocaeli. Let's take a moment
+          to explore my portfolio.
         </MDBTypography>
       </div>
     </>

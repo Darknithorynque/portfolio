@@ -18,17 +18,20 @@ export default function Description() {
           <div>
             <h4>Hi! I'm Birkan</h4>
             <MDBTypography className="about-part-first">
-              My full name is Birkan Arda Malkoc, senior student in Kocaeli
-              University, Computer Engineering Department. My profession is
-              Frontend Web/Mobile development. Currently my stacks are React JS,
-              Next JS , Jquery, React Native, Javascript, Vanilia JS and some
-              CSS libraries such as Semantic UI and Bootstrap.
+              My full name is Birkan Arda Malkoc. I am a recent graduate with a
+              Bachelor's degree in Computer Engineering from Kocaeli University
+              (2024). As a Junior Software Engineer, my primary focus is on
+              backend engineering, with expertise in Java Spring Boot. I also
+              possess a solid understanding of frontend technologies, including
+              React.
             </MDBTypography>
             <MDBTypography className="about-part-second">
-              I have 7 months professional work experience. I had studied as an
-              inten in HTMLTEK(2 months) and Argenova(1 months) company; then I
-              worked as a Junior Developer at Vaga Company in Gebze Bilisim
-              Vadisi 4 months{" "}
+              I have roughly 1.5 years professional work experience. I had
+              studied as an intern and complited my mandatory summer internship
+              in HTMLTEK(2 months) and Argenova(1 months) company; then I worked
+              as a part-time support engineer at Vaga Company in Gebze Bilisim
+              Vadisi 4 months. Currently I am working as a Software Engineer in
+              a Fintech company named Finartz for 1 years.
             </MDBTypography>
           </div>
         </MDBCol>

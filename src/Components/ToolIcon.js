@@ -9,13 +9,12 @@ import instagram from "../Assets/insta.png";
 import linkedIn from "../Assets/linkedin.png";
 import gmail from "../Assets/gmail.png";
 import gitHubPic from "../Assets/github.png";
-import vanilia from "../Assets/vanilia.jpeg";
+import java from "../Assets/java-logo.jpg";
 import reactPic from "../Assets/react.png";
-import reactNative from "../Assets/react-native.webp";
-import nextJs from "../Assets/next.webp";
-import mdbPic from "../Assets/mdb.jpeg";
+import spring from "../Assets/springboot-inner.svg";
+import mysql from "../Assets/mySQL-logo.png";
 import jira from "../Assets/jira.webp";
-import javascriptPic from "../Assets/javascrit.png";
+import postman from "../Assets/logo-glyph.png";
 
 function ToolIcon(props) {
   const contactElements = [
@@ -28,15 +27,11 @@ function ToolIcon(props) {
     [gitHubPic, "https://github.com/Darknithorynque"],
   ];
   const toolElements = [
+    [java, "https://www.java.com/en/"],
+    [spring, "https://spring.io/projects/spring-boot"],
     [reactPic, "https://react.dev/"],
-    [vanilia, "http://vanilla-js.com/"],
-    [reactNative, "https://reactnative.dev/"],
-    [nextJs, "https://nextjs.org/"],
-    [mdbPic, "https://mdbootstrap.com/docs/react/components/cards/"],
-    [
-      javascriptPic,
-      "https://www.google.com/search?q=js&rlz=1C5CHFA_enTR1045TR1045&oq=js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIJCAQQIxgnGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg90gEHMjkyajBqNKgCALACAA&sourceid=chrome&ie=UTF-8",
-    ],
+    [mysql, "https://www.mysql.com/"],
+    [postman, "https://www.postman.com/"],
     [jira, "https://www.atlassian.com/software/jira"],
   ];
 
