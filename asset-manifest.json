@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1a62904e.css",
-    "main.js": "/portfolio/static/js/main.c8053d08.js",
+    "main.js": "/portfolio/static/js/main.40402268.js",
     "static/media/birkan (1).jpeg": "/portfolio/static/media/birkan (1).5476f62eb38d18e14639.jpeg",
     "static/media/portfolio-birkan-img.png": "/portfolio/static/media/portfolio-birkan-img.f385ba90bcbdfa07fb0e.png",
     "static/media/react.png": "/portfolio/static/media/react.6bcffb56bd0efaa47767.png",
-    "static/media/react-native.webp": "/portfolio/static/media/react-native.0d98d8a64511a934c652.webp",
-    "static/media/javascrit.png": "/portfolio/static/media/javascrit.81ebc9587f5d628a50b4.png",
-    "static/media/next.webp": "/portfolio/static/media/next.864ec59e9c450019ca8a.webp",
+    "static/media/java-logo.jpg": "/portfolio/static/media/java-logo.4757c6d12d4f0245d07c.jpg",
+    "static/media/mySQL-logo.png": "/portfolio/static/media/mySQL-logo.4676ad983d6bd3e9fac9.png",
+    "static/media/logo-glyph.png": "/portfolio/static/media/logo-glyph.e946b36ddbb390709af9.png",
     "static/media/jira.webp": "/portfolio/static/media/jira.eeaa6fe646302264574e.webp",
+    "static/media/springboot-inner.svg": "/portfolio/static/media/springboot-inner.5aa3ad53d19a11288d62b7739385807d.svg",
     "index.html": "/portfolio/index.html",
     "main.1a62904e.css.map": "/portfolio/static/css/main.1a62904e.css.map",
-    "main.c8053d08.js.map": "/portfolio/static/js/main.c8053d08.js.map"
+    "main.40402268.js.map": "/portfolio/static/js/main.40402268.js.map"
   },
   "entrypoints": [
     "static/css/main.1a62904e.css",
-    "static/js/main.c8053d08.js"
+    "static/js/main.40402268.js"
   ]
 }
